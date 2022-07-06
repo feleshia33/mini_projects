@@ -33,6 +33,10 @@ body {
 	line-height: 1;
 }
 
+.toLower{
+	text-transform: lowercase;
+}
+
 ol, ul {
 	list-style: none;
 }
